@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b93d4bd5-b4aa-493e-a96d-3442702b1a69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/backend/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend/calculationType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\erics\Documents\Projects\SimpleCalculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m4hb1hFvCrL6nHiavTlI4JG1ZD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b93d4bd5-b4aa-493e-a96d-3442702b1a69" name="Default Changelist" comment="" />
+      <created>1608758838438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608758838438</updated>
+      <workItem from="1608758841198" duration="290000" />
+      <workItem from="1613120670013" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="139" key="#Project_Structure" timestamp="1608758945424">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="139" key="#Project_Structure/0.0.1500.960@0.0.1500.960" timestamp="1608758945424" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1613120673953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/-3000.11.1500.980/0.0.1920.1040@0.0.1920.1040" timestamp="1613120673953" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613120749185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-3000.11.1500.980/0.0.1920.1040@0.0.1920.1040" timestamp="1613120749185" />
+  </component>
+</project>
